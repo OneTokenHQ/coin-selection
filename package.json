@@ -1,16 +1,16 @@
 {
-  "name": "@onekeyfe/cardano-coin-selection-asmjs",
+  "name": "@1tokenfe/cardano-coin-selection-asmjs",
   "version": "1.1.5",
   "description": "",
   "keywords": [
     "coin selection"
   ],
   "license": "MIT",
-  "author": "OneKeyHQ",
-  "homepage": "https://github.com/OneKeyHQ/coin-selection",
+  "author": "OneTokenHQ",
+  "homepage": "https://github.com/OneTokenHQ/coin-selection",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/OneKeyHQ/coin-selection.git"
+    "url": "git+https://github.com/OneTokenHQ/coin-selection.git"
   },
   "publishConfig": {
     "access": "public"

@@ -1,15 +1,15 @@
 import { composeTxPlan } from './transaction';
 import { signTransaction, signTx } from './signTx';
 import { dAppUtils } from './dapp';
-import { txToOneKey } from './txToOneKey';
+import { txToOneToken } from './txToOneToken';
 import { hasSetTagWithBody } from './hasSetTag';
 
-const onekeyUtils = {
+const onetokenUtils = {
   composeTxPlan,
   signTransaction,
   signTx,
-  txToOneKey,
+  txToOneToken,
   hasSetTagWithBody,
 };
 
-export { onekeyUtils, dAppUtils };
+export { onetokenUtils, dAppUtils };
